@@ -1,0 +1,15 @@
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        """
+        Do not return anything, modify s in-place instead.
+        """
+        # there are 2 methods to solve this problem
+        # 1. two pointer : in this we can use two pointer as a left and right using this we can swap the element first elment placed at last position and lat element placed at first position and so on then update the final pointer
+        #time : O(n) space:O(1)
+
+        #2.using stack : here we first put all the charachter placed in a stack then we pop the each element one by one and store it in to the another stack and then fianlly we placed updated charachter into the main stack then weget the reverse string 
+        #Time complexity: O(2n) , Space complexity: O(n)
+        l , r = 0, len(s) - 1 #there is two pointer l ,r = for l we set o foe r we set -1
+        while l < r: #two pointer are not cross each other
+            s[l], s[r] = s[r], s[l] # swap the element
+            l, r = l + 1, r - 1  #update the pointer
