@@ -1,40 +1,47 @@
-## 📅 Daily DSA Progress Tracker
+## 📊 DSA Progress Tracker (LeetCode)
 
-| Date | Problem | LeetCode # | Topic | Difficulty | Status |
-|------|--------|------------|-------|------------|--------|
-| 01-Jan-2025 | Two Sum | 1 | Arrays / Hashing | Easy | ✅ |
-| 02-Jan-2025 | Best Time to Buy and Sell Stock | 121 | Arrays / Two Pointers | Easy | ✅ |
-| 03-Jan-2025 | Maximum Subarray | 53 | Kadane’s Algorithm | Medium | ✅ |
-| 04-Jan-2025 | Move Zeroes | 283 | Two Pointers | Easy | ✅ |
+### ✅ Solved Problems Overview
 
-➡️ **How to auto-update:**  
-Just **add a new row daily** — no need to change anything else.
+| # | Problem Name | LeetCode # | Topic | Difficulty | Status |
+|---|-------------|------------|-------|------------|--------|
+| 1 | Two Sum | 1 | Arrays / Hashing | Easy | ✅ |
+| 2 | Best Time to Buy and Sell Stock | 121 | Arrays / Two Pointers | Easy | ✅ |
+| 3 | Maximum Subarray | 53 | Arrays / Kadane’s Algorithm | Medium | ✅ |
+| 4 | Move Zeroes | 283 | Arrays / Two Pointers | Easy | ✅ |
+| 5 | Contains Duplicate | 217 | Arrays / Sorting | Easy | ✅ |
+| 6 | Remove Duplicates from Sorted Array | 26 | Arrays / Two Pointers | Easy | ✅ |
+| 7 | Valid Anagram | 242 | Strings / Sorting | Easy | ✅ |
+| 8 | Reverse String | 344 | Strings / Two Pointers | Easy | ✅ |
+| 9 | Longest Common Prefix | 14 | Strings / Scanning | Easy | ✅ |
 
 ---
 
-## 2️⃣ Checkbox-Style DSA Progress (Very Clean)
+### 📈 Progress Summary
+- 🟢 **Total Problems Solved:** 9  
+- 🟢 **Easy:** 8  
+- 🟡 **Medium:** 1  
+- 🔴 **Hard:** 0  
 
-Best for **quick visual progress** 👇
+---
 
-```markdown
-## ✅ DSA Checklist
+### 🧠 Topic Coverage
+- ✔ Arrays  
+- ✔ Strings  
+- ✔ Two Pointers  
+- ✔ Sliding Window  
+- ✔ Sorting  
+- ✔ Hashing  
 
-### Arrays
-- [x] Two Sum (LC-1)
-- [x] Best Time to Buy and Sell Stock (LC-121)
-- [x] Maximum Subarray (LC-53)
-- [x] Move Zeroes (LC-283)
-- [x] Contains Duplicate (LC-217)
-- [x] Remove Duplicates from Sorted Array (LC-26)
+---
 
-### Strings
-- [x] Valid Anagram (LC-242)
-- [x] Reverse String (LC-344)
+### 🎯 Daily Goal
+- Solve **1–2 DSA problems daily**
+- Focus on **logic + optimization**
+- Revise solutions weekly
 
-### Upcoming
-- [ ] Longest Common Prefix (LC-14)
-- [ ] Valid Palindrome (LC-125)
-- [ ] Merge Sorted Array (LC-88)
+---
+
+✨ *This tracker will be updated as more problems are solved.*
 
 
 
