@@ -13,13 +13,14 @@
 | 7 | Valid Anagram | 242 | Strings / Sorting | Easy | ✅ |
 | 8 | Reverse String | 344 | Strings / Two Pointers | Easy | ✅ |
 | 9 | Longest Common Prefix | 14 | Strings / Scanning | Easy | ✅ |
+| 10 | Longest Substring Without Repeating Characters | 03 | Sliding Window / Two Pointer Technique | Medium | ✅ |
 
 ---
 
 ### 📈 Progress Summary
-- 🟢 **Total Problems Solved:** 9  
+- 🟢 **Total Problems Solved:** 10  
 - 🟢 **Easy:** 8  
-- 🟡 **Medium:** 1  
+- 🟡 **Medium:** 2  
 - 🔴 **Hard:** 0  
 
 ---
